@@ -1,0 +1,6 @@
+[submodule "handicapcalc-front"]
+	path = handicapcalc-front
+	url = https://github.com/YanichChe/handicapcalc-front
+[submodule "handicapcalc-back"]
+	path = handicapcalc-back
+	url = https://github.com/YanichChe/handicapcalc-back
